@@ -1,7 +1,7 @@
 Name:		pasmo
 Summary:	Portable Z80 cross assembler
 Version:	0.5.5
-Release:	%mkrel %{?prel:0.%prel.}%{rel}
+Release:	1
 License:	GPLv2
 Group:		Development/Other
 Url:		http://pasmo.speccy.org/
