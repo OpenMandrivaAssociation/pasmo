@@ -4,7 +4,7 @@ Version:	0.5.5
 Release:	2
 License:	GPLv2
 Group:		Development/Other
-Url:		http://pasmo.speccy.org/
+Url:		https://pasmo.speccy.org/
 Source0:	https://pasmo.speccy.org/bin/pasmo-%{version}.tar.gz
 
 %description
